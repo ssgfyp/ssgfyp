@@ -17,7 +17,7 @@ I am a full stack web developer and have expertise in MERN and Django stack. I h
 <img align="left" width="22px" src="https://img.icons8.com/color-glass/48/000000/github.png" />
 <a href="https://github.com/samitiz">Usama Malook </a>
 </p>
-He is a meticulous web developer and has an expertise in team building and problem solving. 
+He is a meticulous full stack MERN developer and has an expertise in team building and problem solving. 
 He also has a keen knowledge of cybersecurity and machine learning.
 
 
